@@ -1,0 +1,22 @@
+.background{
+    background-color: #192a56;
+}
+h1{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+p{
+    background-color: #44bd32;
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: rgb(255, 170, 0);
+}
+#p{
+    text-align: center;
+    background-color: aqua;
+    border: 5px solid red ;
+    border-radius: 20px;
+}
